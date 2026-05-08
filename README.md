@@ -1,6 +1,6 @@
-# Wavelet Surf — website
+# Surfcast — website
 
-Static landing page for **Wavelet Surf Forecast** with **Privacy Policy** and **Terms of Use**, ready for [GitHub Pages](https://docs.github.com/en/pages).
+Static landing page for **Surfcast** with **Privacy Policy** and **Terms of Use**, ready for [GitHub Pages](https://docs.github.com/en/pages).
 
 ## Local preview
 
